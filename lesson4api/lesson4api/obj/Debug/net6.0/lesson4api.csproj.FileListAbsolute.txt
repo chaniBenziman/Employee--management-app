@@ -1,0 +1,113 @@
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+C:\תכנות ו\dotnet\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll
+F:\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+F:\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+F:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+F:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+F:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+F:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+F:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+F:\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.lesson4api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.build.lesson4api.props
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lesson4api.props
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lesson4api.props
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+F:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+F:\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+F:\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+F:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+F:\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll
+D:\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+D:\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+D:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+D:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+D:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+D:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+D:\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+D:\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+D:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+D:\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+D:\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+D:\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+D:\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+D:\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.exe
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.deps.json
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.runtimeconfig.json
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\lesson4api.pdb
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.AssemblyInfo.cs
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\scopedcss\bundle\lesson4api.styles.css
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.csproj.CopyComplete
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\refint\lesson4api.dll
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.pdb
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\lesson4api.genruntimeconfig.cache
+C:\Users\User\Downloads\api\lesson4api\lesson4api\obj\Debug\net6.0\ref\lesson4api.dll

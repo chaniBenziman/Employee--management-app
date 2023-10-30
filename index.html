@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .div{
+          border:6px solid rgb(245, 10, 120)
+        }
+      </style>
+</head>
+<body>
+    <h1>Tilim</h1><div id="tilim!"></div>
+<script>
+     fetch("http://localhost:5104/Til").then(Response=>Response.json()).then((json)=>{
+          console.log(json);
+          for (let i = 0; i <Object.keys(json).length; i++) {
+            let div=document.createElement("div")
+            div.setAttribute("class","divClass")
+            let p1=document.createElement("p")
+            let p2=document.createElement("p")
+            let p3=document.createElement("p")
+            let p4=document.createElement("p")
+            let p5=document.createElement("p")
+        
+            
+            p1.textContent="PatriotMissile:"+json[i].PatriotMissile;
+            p2.textContent="City:"+json[i].location.City;
+            p3.textContent="StartDate: "+json[i].location.StartDate
+            p4.textContent="EndDate: "+json[i].location.EndDate
+            p5.textContent="Location: "+json[i].location.Location
+            div.appendChild(p1);
+            div.appendChild(p2);
+            div.appendChild(p3);
+            div.appendChild(p4);
+            div.appendChild(p5);
+            document.getElementById("tilim").appendChild(div) 
+        
+          }
+          
+          
+          
+          })
+</script>
+</body>
+</html>
