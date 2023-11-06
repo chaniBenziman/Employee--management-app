@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Til_Service/1.0.0": {
+        "dependencies": {
+          "Til_Model": "1.0.0"
+        },
+        "runtime": {
+          "Til_Service.dll": {}
+        }
+      },
+      "Til_Model/1.0.0": {
+        "runtime": {
+          "Til_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Til_Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Til_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

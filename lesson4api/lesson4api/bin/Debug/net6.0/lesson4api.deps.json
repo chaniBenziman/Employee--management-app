@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "lesson4api/1.0.0": {
         "dependencies": {
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "Til_Model": "1.0.0",
+          "Til_Service": "1.0.0"
         },
         "runtime": {
           "lesson4api.dll": {}
@@ -60,6 +62,19 @@
             "fileVersion": "6.2.3.0"
           }
         }
+      },
+      "Til_Model/1.0.0": {
+        "runtime": {
+          "Til_Model.dll": {}
+        }
+      },
+      "Til_Service/1.0.0": {
+        "dependencies": {
+          "Til_Model": "1.0.0"
+        },
+        "runtime": {
+          "Til_Service.dll": {}
+        }
       }
     }
   },
@@ -110,6 +125,16 @@
       "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    },
+    "Til_Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Til_Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

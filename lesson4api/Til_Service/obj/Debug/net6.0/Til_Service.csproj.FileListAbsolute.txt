@@ -1,0 +1,45 @@
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.deps.json
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.pdb
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.pdb
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.AssemblyReference.cache
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfoInputs.cache
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfo.cs
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CoreCompileInputs.cache
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CopyComplete
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\refint\Til_Service.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.pdb
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Service\obj\Debug\net6.0\ref\Til_Service.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.deps.json
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.pdb
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.pdb
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.AssemblyReference.cache
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfoInputs.cache
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfo.cs
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CoreCompileInputs.cache
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CopyComplete
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\refint\Til_Service.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.pdb
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Service\obj\Debug\net6.0\ref\Til_Service.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.deps.json
+F:\web api\פרויקט המשך\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.pdb
+F:\web api\פרויקט המשך\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.pdb
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.AssemblyReference.cache
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfoInputs.cache
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfo.cs
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CoreCompileInputs.cache
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CopyComplete
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\refint\Til_Service.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.pdb
+F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\ref\Til_Service.dll

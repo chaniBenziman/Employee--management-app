@@ -1,0 +1,36 @@
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.deps.json
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.pdb
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.AssemblyReference.cache
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfoInputs.cache
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfo.cs
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.CoreCompileInputs.cache
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\refint\Til_Model.dll
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.pdb
+D:\שירה\תכנות\דוטנט\lesson4api\Til_Model\obj\Debug\net6.0\ref\Til_Model.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.deps.json
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.pdb
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.AssemblyReference.cache
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfoInputs.cache
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfo.cs
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.CoreCompileInputs.cache
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\refint\Til_Model.dll
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.pdb
+D:\שירה\תכנות\דוטנט\missle\lesson4api\Til_Model\obj\Debug\net6.0\ref\Til_Model.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.deps.json
+F:\web api\פרויקט המשך\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.pdb
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.AssemblyReference.cache
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfoInputs.cache
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfo.cs
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.CoreCompileInputs.cache
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\refint\Til_Model.dll
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.pdb
+F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\ref\Til_Model.dll
