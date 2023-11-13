@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Authorization.Policy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Til_Model;
+using Til_Model.model;
 using Til_Service.Service;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddScoped<tilservice>();
-
+builder.Services.AddScoped<location>();
+builder.Services.AddDbContext<Til_context>(option =>
+{
+    option.UseSqlServer(builder.Configuration.GetConnectionString("LocationConnectionString"));
+}
+   );
 data data = new data();
 builder.Services.AddSingleton(data);
 

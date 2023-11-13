@@ -34,3 +34,17 @@ F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model
 F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\refint\Til_Model.dll
 F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.pdb
 F:\web api\פרויקט המשך\lesson4api\Til_Model\obj\Debug\net6.0\ref\Til_Model.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.AssemblyInfo.cs
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\refint\Til_Model.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.deps.json
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.runtimeconfig.json
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\bin\Debug\net6.0\Til_Model.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\Til_Model.genruntimeconfig.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Model\obj\Debug\net6.0\ref\Til_Model.dll

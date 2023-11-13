@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\web api\\פרויקט המשך\\lesson4api\\lesson4api\\lesson4api.csproj": {}
+    "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\lesson4api\\lesson4api.csproj": {}
   },
   "projects": {
-    "F:\\web api\\פרויקט המשך\\lesson4api\\lesson4api\\lesson4api.csproj": {
+    "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\lesson4api\\lesson4api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\web api\\פרויקט המשך\\lesson4api\\lesson4api\\lesson4api.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\lesson4api\\lesson4api.csproj",
         "projectName": "lesson4api",
-        "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\lesson4api\\lesson4api.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\lesson4api\\lesson4api.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\web api\\פרויקט המשך\\lesson4api\\lesson4api\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\lesson4api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj": {
-                "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj"
+              "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj"
               },
-              "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Service\\Til_Service.csproj": {
-                "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Service\\Til_Service.csproj"
+              "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Service\\Til_Service.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Service\\Til_Service.csproj"
               }
             }
           }
@@ -51,6 +51,26 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -79,14 +99,14 @@
         }
       }
     },
-    "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj": {
+    "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj",
         "projectName": "Til_Model",
-        "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -118,6 +138,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -138,14 +180,14 @@
         }
       }
     },
-    "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Service\\Til_Service.csproj": {
+    "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Service\\Til_Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Service\\Til_Service.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Service\\Til_Service.csproj",
         "projectName": "Til_Service",
-        "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Service\\Til_Service.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Service\\Til_Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Service\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +208,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj": {
-                "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj"
+              "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj"
               }
             }
           }

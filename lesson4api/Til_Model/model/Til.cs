@@ -1,5 +1,6 @@
 ﻿namespace Til_Model.model
 {
+
     public class Til
     {
         

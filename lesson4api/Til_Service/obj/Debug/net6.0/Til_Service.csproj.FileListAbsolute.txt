@@ -43,3 +43,18 @@ F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Ser
 F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\refint\Til_Service.dll
 F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.pdb
 F:\web api\פרויקט המשך\lesson4api\Til_Service\obj\Debug\net6.0\ref\Til_Service.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.AssemblyInfo.cs
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\refint\Til_Service.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.deps.json
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\bin\Debug\net6.0\Til_Service.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.dll
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\bin\Debug\net6.0\Til_Model.pdb
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\Til_Service.csproj.CopyComplete
+C:\Users\User\Downloads\Api hw\lesson4api\Til_Service\obj\Debug\net6.0\ref\Til_Service.dll

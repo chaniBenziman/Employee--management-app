@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj": {}
+    "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj": {}
   },
   "projects": {
-    "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj": {
+    "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj",
         "projectName": "Til_Model",
-        "projectPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\Til_Model.csproj",
+        "projectPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\Til_Model.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\web api\\פרויקט המשך\\lesson4api\\Til_Model\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Api hw\\lesson4api\\Til_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
