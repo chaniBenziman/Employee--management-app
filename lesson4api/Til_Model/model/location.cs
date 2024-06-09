@@ -10,9 +10,9 @@ namespace Til_Model.model
         [Required]  
 
         public string City { get; set; }
+      
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        [MaxLength(50)]
         public string Location { get; set; }
     }
 }
