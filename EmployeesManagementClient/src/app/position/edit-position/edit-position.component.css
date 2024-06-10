@@ -1,0 +1,19 @@
+.job-card {
+    max-width: 200px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .job-icon {
+    /* background-image: url('path_to_your_icon'); */
+    /* background-size: cover; */
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .mat-icon-button {
+    margin-left: auto;
+  }
+  

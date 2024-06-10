@@ -1,0 +1,47 @@
+
+<form [formGroup]="employeeForm" class="employee-form">
+  <mat-form-field appearance="fill">
+    <mat-label>First Name</mat-label>
+    <input matInput formControlName="firstName" placeholder="Enter first name">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Last Name</mat-label>
+    <input matInput formControlName="lastName" placeholder="Enter last name">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Identity</mat-label>
+    <input matInput formControlName="identity" placeholder="Enter identity">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Birth Date</mat-label>
+    <input matInput [matDatepicker]="birthPicker" formControlName="birthDate" placeholder="Choose birth date">
+    <mat-datepicker-toggle matSuffix [for]="birthPicker"></mat-datepicker-toggle>
+    <mat-datepicker #birthPicker></mat-datepicker>
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Gender</mat-label>
+    <mat-select formControlName="gender" placeholder="Select gender">
+      <mat-option *ngFor="let gender of genders" [value]="gender.value">{{ gender.viewValue }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Entry Date</mat-label>
+    <input matInput [matDatepicker]="entryPicker" formControlName="entryDate" placeholder="Choose entry date">
+    <mat-datepicker-toggle matSuffix [for]="entryPicker"></mat-datepicker-toggle>
+    <mat-datepicker #entryPicker></mat-datepicker>
+  </mat-form-field>
+  <div class="form-group positions">
+    <div *ngFor="let employeePosition of employee.positionEmployees" class="employee-position">
+      <app-edit-position [employee]="employee" [employeePosition]="employeePosition"> </app-edit-position>
+    </div> 
+  </div>
+  <button mat-raised-button class="add position" [disabled]="isFormValid()" (click)="openAddPositionDialog()">add position</button>
+  <section>
+    <div class="button-group">
+      <button mat-raised-button class="save-button" (click)="save()">Save</button>
+      <button mat-raised-button class="cancel-button" (click)="cancel()">Cancel</button>
+    </div>
+  </section>
+</form>
+
+

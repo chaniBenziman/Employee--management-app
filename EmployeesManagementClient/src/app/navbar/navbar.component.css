@@ -1,0 +1,13 @@
+
+.mat-toolbar { 
+    justify-content: space-around;
+
+}
+
+.example-icon {
+    color: rgb(179, 56, 82);
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}

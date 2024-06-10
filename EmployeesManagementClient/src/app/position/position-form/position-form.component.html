@@ -1,0 +1,28 @@
+<form [formGroup]="positionForm" (ngSubmit)="onSubmit()">
+  <div mat-dialog-content>
+    <div>
+      <mat-form-field appearance="fill" class="position-field">
+        <mat-label>Position</mat-label>
+        <mat-select formControlName="positionName" placeholder="Select Position" class="position-select">
+          <mat-option *ngFor="let pos of positions" [value]="pos.positionName" [disabled]="isPositionDisabled(pos.positionName)">
+            {{ pos.positionName }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+    <div>
+      <mat-form-field appearance="fill">
+    <mat-label>Entry Date</mat-label>
+    <input matInput [matDatepicker]="entryPicker" formControlName="entryDate" placeholder="Choose entry date">
+    <mat-datepicker-toggle matSuffix [for]="entryPicker"></mat-datepicker-toggle>
+    <mat-datepicker #entryPicker></mat-datepicker>
+  </mat-form-field>
+    </div>
+    <div>
+      <mat-slide-toggle formControlName="isManagement" color="primary" class="position-toggle">Administrative</mat-slide-toggle>
+    </div>
+  </div>
+  <div mat-dialog-actions>
+    <button mat-button color="primary" type="submit">Submit</button>
+  </div>
+</form>

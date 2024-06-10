@@ -1,0 +1,21 @@
+
+<h4 class="text-center">welcome to our Site!! 😁😀 </h4>
+
+
+<form [formGroup]="LoginForm" class="container mt-5">
+    <div class="form-group">
+        <label for="firstName">FirstName:</label>  
+        <input type="text" id="firstName" formControlName="firstName" class="form-control">
+    </div>
+    <br/>
+    <div class="form-group">
+        <label for="lastName">LastName:</label>  
+        <input type="text" id="lastName" formControlName="lastName" class="form-control">
+    </div>
+    <br/>
+    <div class="form-group">
+        <label for="password">PASSWORD:</label>
+        <input type="password" id="password" formControlName="password" class="form-control">
+    </div>
+    <button (click)="enter()" class="btn-primary">Save</button>
+</form>

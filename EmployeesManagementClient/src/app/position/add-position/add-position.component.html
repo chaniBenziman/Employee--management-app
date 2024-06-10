@@ -1,0 +1,4 @@
+
+<p>{{employee.employeeId}}</p>
+<app-position-form [employee]="this.employee" [employeePosition]="employeePosition" (submitEvent)="addPosition($event)"> </app-position-form>
+<button mat-button (click)="onCancel()" >Cancel</button>

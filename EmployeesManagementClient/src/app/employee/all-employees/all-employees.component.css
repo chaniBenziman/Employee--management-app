@@ -1,0 +1,79 @@
+@import "primeicons/primeicons.css";
+/* styles.css */
+/* עיצוב הכפתורים */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* עיצוב כפתור הורדה */
+.download-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    margin-left: 10px; 
+    padding: 5px 15px;
+    margin-bottom: 10px; 
+  }
+  
+
+
+.add-button {
+  background-color:palevioletred;
+  color: white;
+  border: none;
+  margin-left: 10px;
+  padding: 10px 15px; 
+  margin-bottom: 10px; 
+}
+
+/* העברת עכבר על הכפתורים והתיבה בחירה */
+button:hover, select:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* תיבה בחירה פעילה */
+select:focus {
+  border-color: #007bff; 
+}
+/* עיצוב הכפתור לעריכת עובד */
+.edit-button {
+    background-color: transparent;
+    border: none;
+  }
+  
+  /* עיצוב הכפתור למחיקת עובד */
+  .delete-button {
+    background-color: transparent;
+    border: none;
+  }
+/* עיצוב התיבה בחירה */
+select {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #ced4da;
+    background-color: #f8f9fa;
+    color: #495057;
+    transition: border-color 0.3s ease;
+  }
+  
+  .logo-container {
+    width: 100px; /* רוחב התמונה */
+    height: 100px; /* גובה התמונה */
+    border-radius: 50%; /* עיגול */
+    background-color: #007bff; /* צבע רקע */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo-container img {
+    width:125%; /* גודל התמונה בתוך העיגול */
+    height: auto;
+  }
+ 
