@@ -9,3 +9,11 @@ This application allows managers to efficiently and digitally manage their emplo
 To install the application, run the following commands in your terminal:
 npm install
 ng s
+## Usage
+After installation, you can run the application and start managing your employees. You can add new employees, update existing employee details, delete employees, and manage their roles.
+
+## Contribution
+Contributions to the project are recommended and encouraged. If you wish to contribute, please open an Issue or a Pull Request.
+
+## License
+The application is protected under the MIT license. ```
