@@ -31,8 +31,11 @@ Follow these steps to set up the project:
     ```bash
     cd Employee--management-app
     ```
-3. **Open the project in your preferred IDE (e.g., Visual Studio)**.
-4. **Ensure SQL Server is installed and running**.
+3. **Install the dependencies**:
+    ```bash
+    npm install
+    ```
+4. **Open the project in your preferred IDE (e.g., Visual Studio)**.
 5. **Navigate to the `server.data` project directory via console**:
     ```bash
     cd server.data
