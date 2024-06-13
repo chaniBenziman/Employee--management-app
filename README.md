@@ -4,6 +4,10 @@
 [![Coverage Status](https://img.shields.io/codecov/c/github/chaniBenziman/Employee--management-app)](https://codecov.io/gh/chaniBenziman/Employee--management-app)
 
 
+![image](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/80817334-6a96-44af-8587-35d24000c51c)
+
+
+
 ## Table of Contents
 - [Description](#description)
 - [Images](#images)
