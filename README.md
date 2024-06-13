@@ -52,11 +52,15 @@ Follow these steps to set up the project:
 ## Usage
 Once installed, you can manage your employees using the following features:
 - **Add New Employees**: Add detailed information about new employees.
-- ![image](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/964225fc-4ace-4a5e-8043-e92f080a4f39)
+ ![image](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/964225fc-4ace-4a5e-8043-e92f080a4f39)
 
 - **Update Existing Employee Details**: Modify existing employee information.
+  ![image](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/a5ee3580-7555-4a33-9cbd-2108543352d3)
+
 - **Delete Employees**: Remove employees from the system.
+  
 - **Manage Employee Roles**: Assign and update roles for employees.
+![image](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/b445c185-66e8-41a3-867b-5fa828eb92bb)
 
 ## Contribution
 Contributions are highly encouraged! To contribute:
