@@ -1,7 +1,8 @@
 # Employee Management Application 😀
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/chaniBenziman/Employee--management-app/ci.yml)](https://github.com/chaniBenziman/Employee--management-app/actions)
-[![Coverage Status](https://img.shields.io/codecov/c/github/chaniBenziman/Employee--management-app)](https://codecov.io/gh/chaniBenziman/Employee--management-app)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
 
 ![Application Screenshot](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/80c3d321-1157-4b61-bcbd-7f878187b564)
 
