@@ -3,11 +3,7 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/chaniBenziman/Employee--management-app/ci.yml)](https://github.com/chaniBenziman/Employee--management-app/actions)
 [![Coverage Status](https://img.shields.io/codecov/c/github/chaniBenziman/Employee--management-app)](https://codecov.io/gh/chaniBenziman/Employee--management-app)
 
-
-![image](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/80c3d321-1157-4b61-bcbd-7f878187b564)
-
-
-
+![Application Screenshot](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/80c3d321-1157-4b61-bcbd-7f878187b564)
 
 ## Table of Contents
 - [Description](#description)
@@ -19,10 +15,10 @@
 - [Contact](#contact)
 
 ## Description
-This application allows managers to efficiently and digitally manage their employees. It enables the management of employee details, roles, start dates, and more.
+The Employee Management Application is designed to help managers efficiently handle their employee information digitally. The application offers features such as managing employee details, roles, start dates, and more, streamlining the administrative process.
 
 ## Images
-![image (51)](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/e6a9800a-8458-4ca5-91bf-9c714960680c)
+![Employee Management Dashboard](https://github.com/chaniBenziman/Employee--management-app/assets/149331780/e6a9800a-8458-4ca5-91bf-9c714960680c)
 
 ## Installation
 To get started with the project, follow these steps:
@@ -33,7 +29,7 @@ To get started with the project, follow these steps:
     ```
 2. **Open the project directory in Visual Studio or any other preferred IDE**.
 3. **Ensure you have SQL Server installed and running**.
-4. **Open the console and navigate to the server.data project directory**.
+4. **Open the console and navigate to the `server.data` project directory**.
 5. **Update the database**:
     ```bash
     update-database
@@ -44,17 +40,26 @@ To get started with the project, follow these steps:
     ```
 
 ## Usage
-After installation, you can run the application and start managing your employees. You can:
+After installation, you can run the application and start managing your employees. The application allows you to:
 - Add new employees.
 - Update existing employee details.
 - Delete employees.
 - Manage employee roles.
 
 ## Contribution
-Contributions to the project are recommended and encouraged. If you wish to contribute, please open an [Issue](https://github.com/chaniBenziman/Employee--management-app/issues) or a [Pull Request](https://github.com/chaniBenziman/Employee--management-app/pulls).
+Contributions are welcomed and encouraged! If you wish to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a [Pull Request](https://github.com/chaniBenziman/Employee--management-app/pulls).
+
+For any issues or feature requests, please open an [Issue](https://github.com/chaniBenziman/Employee--management-app/issues).
 
 ## License
-The application is protected under the MIT license. See the [LICENSE](LICENSE) file for details.
+This application is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 You can find me on GitHub at [chaniBenziman](https://github.com/chaniBenziman).
+
+Feel free to reach out for any questions or contributions!
