@@ -99,4 +99,4 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
 ## Contact
 You can reach me on GitHub at [chaniBenziman](https://github.com/chaniBenziman).
 
-Feel free to reach out for any questions or contributions!
+Feel free to reach out for any questions or contributions:)
